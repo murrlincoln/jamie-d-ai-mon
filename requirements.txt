@@ -5,3 +5,4 @@ langchain-openai>=0.2.6,<0.3.0
 langgraph>=0.2.45,<0.3.0
 pydantic>=2.9.2,<3.0.0
 cdp-sdk>=0.10.0,<0.11.0
+-e /Users/lincolnmurr/cdp/autonomous-agent-hackathon/farcaster-py
